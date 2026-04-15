@@ -1,3 +1,6 @@
+Create Your own .env file & node Modules =>  
+npm install  
+
 # ExpressDir  
 '''bash  
 cd ExpressDir  
